@@ -1,13 +1,11 @@
-@font-face {
+/* @font-face {
     font-family: "DS-Digital Bold";
     font-style: normal;
     font-weight: normal;
     src: local("DS-Digital Bold"), url("DS-DIGIB.woff") format("woff");
-  }
+  } */
 
   .calbody {
-    /* height: 275px; */
-    /* width: 250px; */
     height: 250px;
     width: 300px;
     background-color: #3d4543;
